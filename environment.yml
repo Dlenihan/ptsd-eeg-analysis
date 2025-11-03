@@ -1,0 +1,17 @@
+name: eeg_project
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - mne
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+prefix: /opt/anaconda3/envs/eeg_project

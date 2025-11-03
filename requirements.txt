@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# EEG analysis library
+mne
+
+# Machine learning (optional, for classification later)
+scikit-learn
+
+# Jupyter environment
+jupyterlab
+ipykernel
